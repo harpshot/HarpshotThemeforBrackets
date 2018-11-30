@@ -1,0 +1,23 @@
+{
+    "title": "Harpshot Theme",
+    "name": "harpshot",
+    "description": "Harpshot Theme for Brackets",
+    "version": "1.0.0",
+    "author": "Harpshot <harpshot@gmail.com>",
+    "homepage": "http://harpshot.com/",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/harpshot/HarpshotThemeforBrackets.git"
+    },
+	"keywords": [
+        "themes",
+        "harpshot"
+    ],
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "harpshot.css",
+        "dark": false
+    }
+}
